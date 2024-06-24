@@ -1,0 +1,10 @@
+.inline {
+  display: inline-block;
+}
+
+/* @media screen and (max-width: 900px) {
+  .cards {
+    display: flex;
+    flex-direction: column;
+  }
+} */

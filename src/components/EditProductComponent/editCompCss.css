@@ -1,0 +1,7 @@
+.popUp {
+  min-height: max-content;
+  background-color: red;
+  position: absolute;
+  top: 25vh;
+  right: 25vw;
+}
